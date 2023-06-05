@@ -11,13 +11,13 @@ Copy of ADFNE1.5 package as password protected ZIP file here.
 
 <hr>
 <hr>
-<b>
+<s>
 As of 12 June 2022 I put alghalandis.net offline to seek a proper, reliable and affordable web hosting solution. Due to other commitments it will take sometime. Meanwhile I uploaded the ADFNE1.5 package as a zip file here. It is password protected so you will need to read and accept the following License and then send me ( alghalandis . net @ gmail . com ) [disregard the spaces] the following registration information to open it.
 
 - Full name
 - Affiliation and Position
 - Email address
-
+</s>
 <hr>
 
 ADFNE 1.5 License 
