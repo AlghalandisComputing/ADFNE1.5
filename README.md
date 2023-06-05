@@ -1,5 +1,14 @@
 # ADFNE1.5
 Copy of ADFNE1.5 package as password protected ZIP file here.
+
+<hr>
+
+Due to my other commitments and because of continuous frequent requests via email for the password which unfortunately left unanswered for a while (sorry to all senders) I decided to share the password here with the community, please be reminded that by using ADFNE1.5 you have accepted the license (below):
+Password for the ZIP file: ADFNE#1.5@2019~
+
+<hr>
+
+
 <hr>
 <hr>
 <b>
